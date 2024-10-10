@@ -1,0 +1,1008 @@
+{
+    "@@locale": "ar",
+
+    "connectionErr": "لا يمكن الاتصال بخادم البيانات",
+    "@connectionErr": {"description": ""},
+
+    "prepareForChallengeHeader": "استعد للتحدي",
+    "@prepareForChallengeHeader": {"description": ""},
+    "prepareForChallengeBody": "اكتشف تجربة فريدة مع تطبيقنا الرياضي وتعاون مع مدربين محترفين لتحقيق أهدافك الرياضية.",
+    "@prepareForChallengeBody": {"description": ""},
+    
+    "next": "التالي",
+    "@next": {"description": ""},
+    
+    "expertTrainersHeader": "المدربون الخبراء",
+    "@expertTrainersHeader": {"description": ""},
+    "expertTrainersBody": "تعرف على مدربينا المحترفين الذين سوف يوجهونك نحو تحقيق اقصى الإمكانيات الرياضيه ويساعدونك فى تجاوز التحديات",
+    "@expertTrainersBody": {"description": ""},
+    
+    "joinAndShineHeader": "انضم وتألق",
+    "@joinAndShineHeader": {"description": ""},
+    "joinAndShineBody": "انضم إلى تطبيقنا اليوم واحصل على فرصة التدريب الشخصى والتحفيز لبناء نمط حياة رياضى ناجح",
+    "@joinAndShineBody": {"description": ""},
+    
+    "welcomeHeader": "أهلا بك فى فيت زون ",
+    "@welcomeHeader": {"description": ""},
+    "welcomeBody": "اكتشف عالما جديدا من الترفيه مع تطبيق يجمع بين التحديات والمتعة بشكل أساسى",
+    "@welcomeBody": {"description": ""},
+    
+    "agreeTo": "أوافق على",
+    "@agreeTo": {"description": ""},
+    "policy": "سياسة الخصوصية",
+    "@policy": {"description": ""},
+    "ofTheApp": "الخاصة بالتطبيق",
+    "@ofTheApp": {"description": ""},
+    
+    "signUp": "إنشاء حساب",
+    "@signUp": {"description": ""},
+    "createAccount": "إنشاء حسابك",
+    "@createAccount": {"description": ""},
+    "login": "تسجيل الدخول",
+    "@login": {"description": ""},
+    "continueNext": "متابعة",
+    "@continueNext": {"description": ""},
+    
+    "fillInSignupForm": "يرجى إدخال البيانات التالية لإنشاء حسابك",
+    "@fillInSignupForm": {"description": ""},
+    "enterYourName": "أدخل اسمك",
+    "@enterYourName": {"description": ""},
+    "enterYourEmail": "أدخل بريدك الإلكتروني",
+    "@enterYourEmail": {"description": ""},
+    "enterYourPhoneNumber": "أدخل رقم هاتفك",
+    "@enterYourPhoneNumber": {"description": ""},
+    
+    "alreadyHaveAccoount": "هل لديك حساب بالفعل؟",
+    "@alreadyHaveAccoount": {"description": ""},
+    "verifyYourAccoount": "تأكيد حسابك",
+    "@verifyYourAccoount": {"description": ""},
+    "enterCode": "يرجى إدخال الرمز المرسل إلى رقمك",
+    "@enterCode": {"description": ""},
+    
+    "emailAddressInvalid": "البريد الإلكتروني غير صحيح",
+    "@emailAddressInvalid": {"description": ""},
+    "enterAtLeastThreeCharacters": "أدخل ثلاثة أحرف على الأقل",
+    "@enterAtLeastThreeCharacters": {"description": ""},
+    "phoneNumberInvalid": "رقم الهاتف غير صحيح",
+    "@phoneNumberInvalid": {"description": ""},
+    
+    "nameRequired": "ادخل اسمك",
+    "@nameRequired": {"description": ""},
+    "emailRequired": "ادخل بريدك الإلكترونى",
+    "@emailRequired": {"description": ""},
+    "phoneRequired": "أدخل رقم هاتفك",
+    "@phoneRequired": {"description": ""},
+    
+    "privacyPolicy": "سياسة الخصوصية",
+    "@privacyPolicy": {"description": ""},
+    "resendCode": "إعادة إرسال الرمز",
+    "@resendCode": {"description": ""},
+    "emailAlreadyRegistered": "البريد الإلكترونى مسجل مسبقا",
+    "@emailAlreadyRegistered": {"description": ""},
+    "phoneAlreadyRegistered": "رقم الهاتف مسجل مسبقا",
+    "@phoneAlreadyRegistered": {"description": ""},
+    
+    "phoneNotRegistered": "رقم الهاتف غير مسجل",
+    "@phoneNotRegistered": {"description": ""},
+    "accountConfirmation": "تأكيد حسابك",
+    "@accountConfirmation": {"description": ""},
+    "enterOTP": "الرجاء إدخال الرمز الذى تم إرساله لرقم",
+    "@enterOTP": {"description": ""},
+    "unknownError": "خطأ غير معلوم",
+    "@unknownError": {"description": ""},
+
+    
+    "tellUsMoreAboutYou": "أخبرنا بالمزيد عنك",
+    "@tellUsMoreAboutYou": {"description": ""},
+    
+    "joinUs": "إنضم إلينا",
+    "@joinUs": {"description": ""},
+    
+    "recordYourData": "سجّل بياناتك لقياس الوزن والطول وتحسين تقدمك الرياضي",
+    "@recordYourData": {"description": ""},
+    
+    "joinAsTrainee": "أنضم كمُتدرب/ة",
+    "@joinAsTrainee": {"description": ""},
+    
+    "searchForDieitian": "ابحث عن خبير تغذية لمساعدتك في تطوير نظام غذائي صحي",
+    "@searchForDieitian": {"description": ""},
+    
+    "joinAsCoach": "أنضم كمٌدرب/ة",
+    "@joinAsCoach": {"description": ""},
+    
+    "findAcoach": "ابحث عن خبير تغذية لمساعدتك في تطوير نظام غذائي صحي",
+    "@findAcoach": {"description": ""},
+    
+    "chooseYourPlan": "اختر النظام الذى تفضله",
+    "@chooseYourPlan": {"description": ""},
+    
+    "chooseAPlanThatFitsYou": "اختر الخطة التي تناسبك",
+    "@chooseAPlanThatFitsYou": {"description": ""},
+    
+    "dietPlan": "نظام غذائي",
+    "@dietPlan": {"description": ""},
+    
+    "findAdietitian": "ابحث عن خبير تغذية لمساعدتك في تطوير خطة غذائية صحية",
+    "@findAdietitian": {"description": ""},
+    
+    "fitnessPlan": "لياقة بدنية",
+    "@fitnessPlan": {"description": ""},
+    
+    "findAfitnessTrainer": "ابحث عن مدرب لياقة بدنية لمساعدتك في تطوير خطة رياضية",
+    "@findAfitnessTrainer": {"description": ""},
+    
+    "comprehensivePlan": "نظام متكامل",
+    "@comprehensivePlan": {"description": ""},
+    
+    "findAComprehensivePlanTrainer": "ابحث عن مدرب يساعدك في إعداد خطة متكاملة",
+    "@findAComprehensivePlanTrainer": {"description": ""},
+    
+    "chooseCoachGender": "أختار نوع المدرب ؟",
+    "@chooseCoachGender": {"description": ""},
+    
+    "enterYourCoachGenderPreferences": "سجّل بياناتك لقياس الوزن والطول وتحسين تقدمك الرياضي",
+    "@enterYourCoachGenderPreferences": {"description": ""},
+    
+    "female": "أنثى",
+    "@female": {"description": ""},
+    
+    "male": "ذكر",
+    "@male": {"description": ""},
+    
+    "bothGenders": "ايا كان",
+    "@bothGenders": {"description": ""},
+    
+    "yourPersonalInfo": "بياناتك الشخصية",
+    "@yourPersonalInfo": {"description": ""},
+    
+    "enterYourPersonalInfo": "سجّل بياناتك لقياس الوزن والطول وتحسين تقدمك الرياضي",
+    "@enterYourPersonalInfo": {"description": ""},
+    
+    "height": " الطول ( سم )",
+    "@height": {"description": ""},
+    
+    "weight": " الوزن ( كج )",
+    "@weight": {"description": ""},
+    
+    "idealWeight": " الوزن المثالى ( كج )",
+    "@idealWeight": {"description": ""},
+    
+    "gender": "النوع",
+    "@gender": {"description": ""},
+    
+    "birthDate": "تاريخ الميلاد",
+    "@birthDate": {"description": ""},
+    
+    "cm": "سم",
+    "@cm": {"description": ""},
+    
+    "kg": "كج",
+    "@kg": {"description": ""},
+    
+    "enterBirthDate": "أدخل تاريخ الميلاد",
+    "@enterBirthDate": {"description": ""},
+    
+    "enterHeight": "أدخل الطول",
+    "@enterHeight": {"description": ""},
+    
+    "enterweight": "أدخل الوزن",
+    "@enterweight": {"description": ""},
+    
+    "enterIdealWeight": "أدخل الوزن المثالى",
+    "@enterIdealWeight": {"description": ""},
+    
+    "yourExperienceAndBio": "خبراتك ومعلوماتك",
+    "@yourExperienceAndBio": {"description": ""},
+    
+    "enterYourExperience": "أدخل خبراتك",
+    "@enterYourExperience": {"description": ""},
+    
+    "pleaseProvideUsWithABrief": "سجّل بياناتك لقياس الوزن والطول وتحسين",
+    "@pleaseProvideUsWithABrief": {"description": ""},
+    
+    "bio": "نبذة عنك",
+    "@bio": {"description": ""},
+    
+    "briefBioAboutYou": "أدخل نبذة عنك بأختصار",
+    "@briefBioAboutYou": {"description": ""},
+    
+    "fields": "التخصصات",
+    "@fields": {"description": ""},
+    
+    "dietitianPlan": "تغذية",
+    "@dietitianPlan": {"description": ""},
+    
+    "bothOptions": "الخيارات معًا",
+    "@bothOptions": {"description": ""},
+    
+    "certificates": "الشهادات الحاصل عليها",
+    "@certificates": {"description": ""},
+    
+    "languagesSpoken": "اللغات المُجادة",
+    "@languagesSpoken": {"description": ""},
+    
+    "spanishLanguage": "الاسبانية",
+    "@spanishLanguage": {"description": ""},
+    
+    "arabicLanguage": "العربية",
+    "@arabicLanguage": {"description": ""},
+    
+    "englishLanguage": "الإنجليزية",
+    "@englishLanguage": {"description": ""},
+    
+    "numberOfYearsOfExperience": "عدد سنين الخبرة",
+    "@numberOfYearsOfExperience": {"description": ""},
+    
+    "enterNumberOfYearsOfExperience": "أدخل عدد سنين الخبرة",
+    "@enterNumberOfYearsOfExperience": {"description": ""},
+    
+    "yourPersonalInformation": "معلوماتك",
+    "@yourPersonalInformation": {"description": ""},
+    
+    "enterYourPersonalInformation": "سجّل بياناتك لقياس الوزن والطول وتحسين",
+    "@enterYourPersonalInformation": {"description": ""},
+    
+    "uploadID": "رفع الهوية",
+    "@uploadID": {"description": ""},
+    
+    "limit10Mbs": "ولا يزيد حجم الملف عن 10 ميغابايت JPG أو PNG",
+    "@limit10Mbs": {"description": ""},
+    
+    "uploadPersonalImage": "رفع الصورة الشخصية",
+    "@uploadPersonalImage": {"description": ""},
+    
+    "uploadCoverImage": "رفع صورة الغلاف ",
+    "@uploadCoverImage": {"description": ""},
+    
+    "bankingInfo": "معلوماتك البنكية",
+    "@bankingInfo": {"description": ""},
+    
+    "enterBankingInfoBody": "سجّل بياناتك البنكية لتحسين",
+    "@enterBankingInfoBody": {"description": ""},
+    
+    "iban": "رقم IBAN البنكي",
+    "@iban": {"description": ""},
+    
+    "name": "الاسم",
+    "@name": {"description": ""},
+    
+    "bankRegisteredName": "الاسم الشخصى",
+    "@bankRegisteredName": {"description": ""},
+    
+    "bankName": "اسم البنك",
+    "@bankName": {"description": ""},
+    
+    "bankCountry": "الدولة",
+    "@bankCountry": {"description": ""},
+    
+    "bankCity": "المدينة",
+    "@bankCity": {"description": ""},
+    
+    "schedule": "مواعيد العمل",
+    "@schedule": {"description": ""},
+    
+    "enterYourHolidays": "أدخل اجازاتك",
+    "@enterYourHolidays": {"description": ""},
+    
+    "matchedTrainees": "متطابق مع المتدربين",
+    "@matchedTrainees": {"description": ""},
+    
+    "fullProgram": "نظام متكامل",
+    "@fullProgram": {"description": ""},
+    
+    "months": "شهور",
+    "@months": {"description": ""},
+    
+    "year": "سنة",
+    "@year": {"description": ""},
+    
+    "dailyActivities": "الأنشطة اليومية",
+    "@dailyActivities": {"description": ""},
+    
+    "program": "برنامج",
+    "@program": {"description": ""},
+    
+    "theDiet": "النظام الغذائي",
+    "@theDiet": {"description": ""},
+    
+    "achievementsBrief": "ملخص إنجازاتك",
+    "@achievementsBrief": {"description": ""},
+    
+    "all": "الكل",
+    "@all": {"description": ""},
+    
+    "completed": "مكتمل",
+    "@completed": {"description": ""},
+    
+    "nonCompleted": "غير مكتمل",
+    "@nonCompleted": {"description": ""},
+    
+    "trainees": "المتدربون",
+    "@trainees": {"description": ""},
+    
+    "newRequests": "طلبات جديدة",
+    "@newRequests": {"description": ""},
+    
+    "month": "شهر",
+    "@month": {"description": ""},
+    
+    "addNewCertificate": "أضف شهادة جديدة",
+    "@addNewCertificate": {"description": ""},
+    
+    "enterCertificateName": "أدخل اسم الشهادة",
+    "@enterCertificateName": {"description": ""},
+    
+    "uploadCertificate": "أرفع الشهادة",
+    "@uploadCertificate": {"description": ""},
+    
+    "traineeDetails": "تفاصيل المتدرب",
+    "@traineeDetails": {"description": ""},
+    
+    "accept": "قبول",
+    "@accept": {"description": ""},
+    
+    "reject": "رفض",
+    "@reject": {"description": ""},
+    
+    "chatWithTrainee": "تواصل مع المتدرب",
+    "@chatWithTrainee": {"description": ""},
+    
+    "traineeSubscriptionStartDate": "موعد بداية الاشتراك",
+    "@traineeSubscriptionStartDate": {"description": ""},
+    
+    "traineeSubscriptionEndDate": "موعد الانتهاء",
+    "@traineeSubscriptionEndDate": {"description": ""},
+    
+    "personalProfile": "الملف الشخصي",
+    "@personalProfile": {"description": ""},
+    
+    "personalInformation": "بياناتك الشخصية",
+    "@personalInformation": {"description": ""},
+    
+    "personalExperiences": "خبراتك الشخصية",
+    "@personalExperiences": {"description": ""},
+    
+    "wallet": "المحفظة",
+    "@wallet": {"description": ""},
+    
+    "latestTransactions": "معاملاتك الأخيرة",
+    "@latestTransactions": {"description": ""},
+    
+    "sessionManagement": "إدارة الجلسات والمواعيد",
+    "@sessionManagement": {"description": ""},
+    
+    "inviteYourFriend": "قم بدعوة أصدقائك",
+    "@inviteYourFriend": {"description": ""},
+    
+    "getAdiscountOnReferreingFriends": "واحصل على قسيمة بقيمة 20 درهم عند اشتراكهم",
+    "@getAdiscountOnReferreingFriends": {"description": ""},
+    
+    "participateAndWin": "شارك وأحصل",
+    "@participateAndWin": {"description": ""},
+    
+    "sponsoredCoaches": "مدربون مميزون",
+    "@sponsoredCoaches": {"description": ""},
+    
+    "displayMore": "عرض المزيد",
+    "@displayMore": {"description": ""},
+    
+    "coaches": "المدربين",
+    "@coaches": {"description": ""},
+    
+    "fitnessAndNutrion": "لياقة وتغذية",
+    "@fitnessAndNutrion": {"description": ""},
+    
+    "yourSubscription": "اشتراكك",
+    "@yourSubscription": {"description": ""},
+    
+    "shareWithFriends": "شارك مع أصدقائك",
+    "@shareWithFriends": {"description": ""},
+    
+    "profile": "الملف الشخصى",
+    "@profile": {"description": ""},
+    
+    "paymentMethods": "طريقة الدفع",
+    "@paymentMethods": {"description": ""},
+    
+    "changePaymentMethod": "تغيير طريقة الدفع",
+    "@changePaymentMethod": {"description": ""},
+    
+    "addNew": "إضافة جديد",
+    "@addNew": {"description": ""},
+    
+    "back": "العودة",
+    "@back": {"description": ""},
+    
+    "backHome": "العودة للرئيسية",
+    "@backHome": {"description": ""},
+    
+    "logout": "الخروج",
+    "@logout": {"description": ""},
+    
+    "settings": "الإعدادات",
+    "@settings": {"description": ""},
+    
+    "achievedGoals": "الأهداف المحققة",
+    "@achievedGoals": {"description": ""},
+    
+    "totalTime": "الزقت الإجمالى (س)",
+    "@totalTime": {"description": ""},
+    
+    "notifications": "الإشعارات",
+    "@notifications": {"description": ""},
+    
+    "fitnessStatus": "حالتك البدنية",
+    "@fitnessStatus": {"description": ""},
+    
+    "language": "اللغة",
+    "@language": {"description": ""},
+    
+    "support": "المساعدة والدعم",
+    "@support": {"description": ""},
+    
+    "chooseLanguage": "اختار اللغة",
+    "@chooseLanguage": {"description": ""},
+    
+    "arabicLanguageSaudi": "(السعودية) العربية",
+    "@arabicLanguageSaudi": {"description": ""},
+    
+    "englishLanguageUK": "English (UK)",
+    "@englishLanguageUK": {"description": ""},
+    
+    "changeprofilepicture": "تغيير الصورة",
+    "@changeprofilepicture": {"description": ""},
+    
+    "fullName": "الاسم بالكامل",
+    "@fullName": {"description": ""},
+    
+    "emailAddress": "البريد الالكترونى",
+    "@emailAddress": {"description": ""},
+    
+    "phoneNumber": "رقم التليفون",
+    "@phoneNumber": {"description": ""},
+    
+    "confirmChanges": "تأكيد التعديلات",
+    "@confirmChanges": {"description": ""},
+    
+    "delete": "حذف",
+    "@delete": {"description": ""},
+    
+    "noCardsAvailable": "لا يوجد بطاقات ائتمان مسجلة",
+    "@noCardsAvailable": {"description": ""},
+    
+    "findACoach": "ابحث عن مدرب ....",
+    "@findACoach": {"description": ""},
+    
+    "filterCoaches": "تصفية المدربين",
+    "@filterCoaches": {"description": ""},
+    
+    "reset": "إعادة تعيين",
+    "@reset": {"description": ""},
+    
+    "mainCategorization": "تصنيف رئيسي",
+    "@mainCategorization": {"description": ""},
+    
+    "ratingCategorization": "حسب التقييم",
+    "@ratingCategorization": {"description": ""},
+    
+    "filter": "فلترة",
+    "@filter": {"description": ""},
+    
+    "yourGoals": "أخبرنا عن اهدافك",
+    "@yourGoals": {"description": ""},
+    
+    "tellUsAboutYourFitnessGoals": "ماهى اهدافك من ناحية اللياقة",
+    "@tellUsAboutYourFitnessGoals": {"description": ""},
+
+    
+    "loseWeight": "فقدان الوزن",
+    "@loseWeight": {"description": ""},
+    
+    "muscleBuilding": "بناء العضلات",
+    "@muscleBuilding": {"description": ""},
+    
+    "increaseElasticity": "زيادة المرونة",
+    "@increaseElasticity": {"description": ""},
+    
+    "learnBasics": "تعلم الأساسيات",
+    "@learnBasics": {"description": ""},
+    
+    "maintainFitness": "الحفاظ علي اللياقة",
+    "@maintainFitness": {"description": ""},
+    
+    "beginner": "مبتدئ",
+    "@beginner": {"description": ""},
+    
+    "intermediate": "متوسط",
+    "@intermediate": {"description": ""},
+    
+    "advanced": "متقدم",
+    "@advanced": {"description": ""},
+    
+    "improveGeneralDiet": "تحسين التغذية العامة",
+    "@improveGeneralDiet": {"description": ""},
+    
+    "limitWeight": "تحديد مستهدف للوزن",
+    "@limitWeight": {"description": ""},
+    
+    "balanceCarbProteinFats": "توازن البروتين والكربوهيدرات والدهون",
+    "@balanceCarbProteinFats": {"description": ""},
+    
+    "tellUsAboutYourFavoriteFoods": "الاطعمة المفضلة لديك",
+    "@tellUsAboutYourFavoriteFoods": {"description": ""},
+    
+    "enterYourFavoriteFoods": "أدخل البيانات التالية لأنشاء حسابك!",
+    "@enterYourFavoriteFoods": {"description": ""},
+    
+    "doYouHaveAlergies": "هل تعانى من اى حساسية ",
+    "@doYouHaveAlergies": {"description": ""},
+    
+    "enterYouAllergies": "أدخل البيانات التالية لأنشاء حسابك!",
+    "@enterYouAllergies": {"description": ""},
+    
+    "numberOfyourMeals": "عدد وجباتك",
+    "@numberOfyourMeals": {"description": ""},
+    
+    "enterNumberOfyourMeals": "أدخل البيانات التالية لأنشاء حسابك!",
+    "@enterNumberOfyourMeals": {"description": ""},
+    
+    "tellUsAboutYourLevel": "أخبرنا عن مستواك",
+    "@tellUsAboutYourLevel": {"description": ""},
+    
+    "enterYourLevel": "أدخل البيانات التالية لإنشاء حسابك",
+    "@enterYourLevel": {"description": ""},
+    
+    "tellUsAboutYourTools": "الادوات التي تساعدك",
+    "@tellUsAboutYourTools": {"description": ""},
+    
+    "enterYourTools": "أدخل البيانات التالية لإنشاء حسابك",
+    "@enterYourTools": {"description": ""},
+    
+    "tellUsAboutTrainingPlace": "مكان تدريبك",
+    "@tellUsAboutTrainingPlace": {"description": ""},
+    
+    "enterYourTrainingPlace": "أدخل البيانات التالية لإنشاء حسابك",
+    "@enterYourTrainingPlace": {"description": ""},
+    
+    "gym": "صالة الألعاب الرياضية",
+    "@gym": {"description": ""},
+    
+    "gymDescription": "لتمارين تقوية العضلات وتطوير القوة.",
+    "@gymDescription": {"description": ""},
+    
+    "home": "المنزل",
+    "@home": {"description": ""},
+    
+    "homeDescription": "لتمارين تقوية العضلات وتطوير القوة.",
+    "@homeDescription": {"description": ""},
+    
+    "backyard": "الملعب او الحديقة",
+    "@backyard": {"description": ""},
+    
+    "backyardDescription": "لتمارين تقوية العضلات وتطوير القوة.",
+    "@backyardDescription": {"description": ""},
+    
+    "rob": "الحبل القفاز",
+    "@rob": {"description": ""},
+    
+    "robDescription": "لتمارين تقوية العضلات وتطوير القوة.",
+    "@robDescription": {"description": ""},
+    
+    "ball": "الكرة اللياقة",
+    "@ball": {"description": ""},
+    
+    "ballDescription": "لتمارين تقوية العضلات وتطوير القوة.",
+    "@ballDescription": {"description": ""},
+    
+    "traininePlace": "مكان تدريبك",
+    "@traininePlace": {"description": ""},
+    
+    "traininePlaceDescription": "أدخل البيانات التالية لأنشاء حسابك!",
+    "@traininePlaceDescription": {"description": ""},
+    
+    "dumbels": "الدمبل",
+    "@dumbels": {"description": ""},
+    
+    "dumbelsDescription": "لتمارين تقوية العضلات وتطوير القوة.",
+    "@dumbelsDescription": {"description": ""},
+    
+    "professional": "محترف",
+    "@professional": {"description": ""},
+    
+    "fish": "سمك",
+    "@fish": {"description": ""},
+    
+    "eggs": "بيض",
+    "@eggs": {"description": ""},
+    
+    "beans": "بقوليات",
+    "@beans": {"description": ""},
+    
+    "oats": "شوفان",
+    "@oats": {"description": ""},
+    
+    "potatoes": "بطاطس",
+    "@potatoes": {"description": ""},
+    
+    "rice": "أرز",
+    "@rice": {"description": ""},
+    
+    "meat": "لحوم",
+    "@meat": {"description": ""},
+    
+    "milk": "لبن",
+    "@milk": {"description": ""},
+    
+    "juice": "عصائر",
+    "@juice": {"description": ""},
+    
+    "fruits": "فواكه",
+    "@fruits": {"description": ""},
+    
+    "salad": "سلطات",
+    "@salad": {"description": ""},
+    
+    "chicken": "دجاج",
+    "@chicken": {"description": ""},
+    
+    "meal": "وجبة",
+    "@meal": {"description": ""},
+    
+    "startDate": "تاريخ البدء",
+    "@startDate": {"description": ""},
+    
+    "totalCost": "التكلفة الاجمالية",
+    "@totalCost": {"description": ""},
+    
+    "addNewCard": "اضافة بطاقة جديدة",
+    "@addNewCard": {"description": ""},
+    
+    "cardDetails": "تفاصيل البطاقة",
+    "@cardDetails": {"description": ""},
+    
+    "cardHolderName": "اسم صاحب البطاقة",
+    "@cardHolderName": {"description": ""},
+    
+    "cardNumber": "رقم البطاقة",
+    "@cardNumber": {"description": ""},
+    
+    "cardExpiryDate": "تاريخ الانتهاء",
+    "@cardExpiryDate": {"description": ""},
+    
+    "cardCCV": "الرمز السري",
+    "@cardCCV": {"description": ""},
+    
+    "agreeToSaveCardDetailsForFutureUse": "أوافق على حفط بيانات البطاقة لإعادة استخدامها",
+    "@agreeToSaveCardDetailsForFutureUse": {"description": ""},
+    
+    "tryAgain": "حاول مرة أخرى",
+    "@tryAgain": {"description": ""},
+    
+    "subscriptionFailed": "الإشتراك فشل",
+    "@subscriptionFailed": {"description": ""},
+    
+    "retryToSubscribe": "عذرًا، لم يتمكن من اتمام عملية الاشتراك. يرجى المحاولة مرة أخرى.",
+    "@retryToSubscribe": {"description": ""},
+    
+    "cardAddFailed": "فشل إضافة البطاقة",
+    "@cardAddFailed": {"description": ""},
+    
+    "retryToAddCard": "عذرًا، لم يتمكن من اتمام إضافة البطاقة. يرجى المحاولة مرة أخرى.",
+    "@retryToAddCard": {"description": ""},
+    
+    "coachProvidesThesePlans": "المدرب يقدم الخدمات التالية",
+    "@coachProvidesThesePlans": {"description": ""},
+    
+    "chooseCoachServie": "اختر من خدمات المدرب لاحتياجك",
+    "@chooseCoachServie": {"description": ""},
+    
+    "subscriptionStartDate": "تحديد موعد البدء",
+    "@subscriptionStartDate": {"description": ""},
+    
+    "subscribeWithCoachHeader": "أشترك مع المدرب",
+    "@subscribeWithCoachHeader": {"description": ""},
+    
+    "subscribeWithCoachBody": "استفد من تجربة فريدة مع اشتراكك الشهري، حيث ستتلقى جلسة فردية شهرية لضبط أهدافك،",
+    "@subscribeWithCoachBody": {"description": ""},
+    
+    "three_months": "٣ شهور",
+    "@three_months": {"description": ""},
+    
+    "six_months": "٦ شهور",
+    "@six_months": {"description": ""},
+    
+    "one_year": "سنوى",
+    "@one_year": {"description": ""},
+    
+    "threeMonthsPlanDescription": "يتيح لك جلسة فردية شهرية، برنامج تمرين شخصي، ودعم عبر البريد الإلكتروني",
+    "@threeMonthsPlanDescription": {"description": ""},
+    
+    "sixMonthsPlanDescription": "يتيح لك جلسة فردية شهرية، برنامج تمرين شخصي، ودعم عبر البريد الإلكتروني",
+    "@sixMonthsPlanDescription": {"description": ""},
+    
+    "oneYearPlanDescription": "يتيح لك جلسة فردية شهرية، برنامج تمرين شخصي، ودعم عبر البريد الإلكتروني",
+    "@oneYearPlanDescription": {"description": ""},
+
+    
+    "sar": "ريال",
+    "@sar": {"description": ""},
+    
+    "usd": "دولار",
+    "@usd": {"description": ""},
+    
+    "eur": "يورو",
+    "@eur": {"description": ""},
+    
+    "egp": "جنيه",
+    "@egp": {"description": ""},
+    
+    "paymentDetails": "تفاصيل الدفع",
+    "@paymentDetails": {"description": ""},
+    
+    "requestDetails": "تفاصيل الطلب",
+    "@requestDetails": {"description": ""},
+    
+    "change": "تغيير",
+    "@change": {"description": ""},
+    
+    "rating": "تقييم",
+    "@rating": {"description": ""},
+    
+    "theRatings": "التقييمات",
+    "@theRatings": {"description": ""},
+    
+    "ratings": "تقييمات",
+    "@ratings": {"description": ""},
+    
+    "fitness": "لياقة بدنية",
+    "@fitness": {"description": ""},
+    
+    "nutrionist": "تغذية",
+    "@nutrionist": {"description": ""},
+    
+    "readMore": "اقرأ المزيد",
+    "@readMore": {"description": ""},
+    
+    "readLess": "اخفاء",
+    "@readLess": {"description": ""},
+    
+    "beOneOfTheFamily": "كن واحدا من العائلة",
+    "@beOneOfTheFamily": {"description": ""},
+    
+    "otherAchievements": "إنجازات أخرى",
+    "@otherAchievements": {"description": ""},
+    
+    "yearsOfExperience": "سنوات خبرة",
+    "@yearsOfExperience": {"description": ""},
+    
+    "comments": "تعليقات",
+    "@comments": {"description": ""},
+    
+    "comment": "تعليق",
+    "@comment": {"description": ""},
+    
+    "star": "نجمة",
+    "@star": {"description": ""},
+    
+    "stars": "نجوم",
+    "@stars": {"description": ""},
+    
+    "subscribeNow": "اشترك الآن",
+    "@subscribeNow": {"description": ""},
+    
+    "trainingPeriod": "فترة التدريب",
+    "@trainingPeriod": {"description": ""},
+    
+    "fiveStars": "5 نجوم",
+    "@fiveStars": {"description": ""},
+    
+    "fourStars": "4 نجوم",
+    "@fourStars": {"description": ""},
+    
+    "threeStars": "3 نجوم",
+    "@threeStars": {"description": ""},
+    
+    "twoStars": "2 نجوم",
+    "@twoStars": {"description": ""},
+    
+    "oneStars": "1 نجوم",
+    "@oneStars": {"description": ""},
+    
+    "addCertificate": "إضافة شهادة",
+    "@addCertificate": {"description": ""},
+    
+    "years": "سنوات",
+    "@years": {"description": ""},
+    
+    "noCoachesAvailabileCurrently": "لا يوجد مدربون نشطاء حاليا",
+    "@noCoachesAvailabileCurrently": {"description": ""},
+    
+    "fitnessCoach": "مدرب لياقة بدنية",
+    "@fitnessCoach": {"description": ""},
+    
+    "nutritionist": "مدرب تغذية",
+    "@nutritionist": {"description": ""},
+    
+    "fitnessAndNutritionistCoach": "مدرب لياقة وتغذية",
+    "@fitnessAndNutritionistCoach": {"description": ""},
+    
+    "welcome": "مرحبا",
+    "@welcome": {"description": ""},
+    
+    "weAreExcitedToSeeYou": "نحن متحمسون لرؤيتك",
+    "@weAreExcitedToSeeYou": {"description": ""},
+    
+    "yourProgram": "برنامجك",
+    "@yourProgram": {"description": ""},
+    
+    "yourProgramIsYourCompanion": "رفيق يومي للصحة والنشاط",
+    "@yourProgramIsYourCompanion": {"description": ""},
+    
+    "exercises": "التمارين",
+    "@exercises": {"description": ""},
+    
+    "exercise": "تمرين",
+    "@exercise": {"description": ""},
+    
+    "complete": "استكمل",
+    "@complete": {"description": ""},
+    
+    "yourDiet": "نظامك الغذائي",
+    "@yourDiet": {"description": ""},
+    
+    "mealsDuringTheDay": "وجبات علي مدار اليوم",
+    "@mealsDuringTheDay": {"description": ""},
+    
+    "chatWithCoachAndStatyUptodate": "تحدث مع مدربك وتابع التطورات",
+    "@chatWithCoachAndStatyUptodate": {"description": ""},
+    
+    "yourPlanManagement": "إدارة خطتك",
+    "@yourPlanManagement": {"description": ""},
+    
+    "trainingPlan": "باقة تدريب",
+    "@trainingPlan": {"description": ""},
+    
+    "endsAtJanuary": "تنتهى فى يناير",
+    "@endsAtJanuary": {"description": ""},
+    
+    "startsAtFebruary": "تبدأ فى فبراير",
+    "@startsAtFebruary": {"description": ""},
+    
+    "endsAtFebruary": "تنتهى فى فبراير",
+    "@endsAtFebruary": {"description": ""},
+    
+    "startsAtMarch": "تبدأ فى مارس",
+    "@startsAtMarch": {"description": ""},
+    
+    "endsAtMarch": "تنتهى فى مارس",
+    "@endsAtMarch": {"description": ""},
+    
+    "startsAtApril": "تبدأ فى أبريل",
+    "@startsAtApril": {"description": ""},
+    
+    "endsAtApril": "تنتهى فى أبريل",
+    "@endsAtApril": {"description": ""},
+    
+    "startsAtMay": "تبدأ فى مايو",
+    "@startsAtMay": {"description": ""},
+    
+    "endsAtMay": "تنتهى فى مايو",
+    "@endsAtMay": {"description": ""},
+    
+    "startsAtJune": "تبدأ فى يونيو",
+    "@startsAtJune": {"description": ""},
+    
+    "endsAtJune": "تنتهى فى يونيو",
+    "@endsAtJune": {"description": ""},
+    
+    "startsAtJuly": "تبدأ فى يوليو",
+    "@startsAtJuly": {"description": ""},
+    
+    "endsAtJuly": "تنتهى فى يوليو",
+    "@endsAtJuly": {"description": ""},
+    
+    "startsAtAugust": "تبدأ فى اغسطس",
+    "@startsAtAugust": {"description": ""},
+    
+    "endsAtAugust": "تنتهى فى اغسطس",
+    "@endsAtAugust": {"description": ""},
+    
+    "startsAtSeptember": "تبدأ فى سيتمبر",
+    "@startsAtSeptember": {"description": ""},
+    
+    "endsAtSeptember": "تنتهى فى سبتمبر",
+    "@endsAtSeptember": {"description": ""},
+    
+    "startsAtOctober": "تبدأ فى اكتوبر",
+    "@startsAtOctober": {"description": ""},
+    
+    "endsAtOctober": "تنتهى فى اكتوبر",
+    "@endsAtOctober": {"description": ""},
+    
+    "startsAtNovember": "تبدأ فى نوفمبر",
+    "@startsAtNovember": {"description": ""},
+    
+    "endsAtNovember": "تنتهى فى نوفمبر",
+    "@endsAtNovember": {"description": ""},
+    
+    "startsAtDecember": "تبدأ فى ديسمبر",
+    "@startsAtDecember": {"description": ""},
+    
+    "endsAtDecember": "تنتهى فى ديسمبر",
+    "@endsAtDecember": {"description": ""},
+    
+    "moveToYearlyPlan": "الانتقال للباقة السنوية",
+    "@moveToYearlyPlan": {"description": ""},
+    
+    "renewSubscription": "تجديد الإشتراك",
+    "@renewSubscription": {"description": ""},
+    
+    "cancelSubscription": "إلغاء الإشتراك",
+    "@cancelSubscription": {"description": ""},
+    
+    "rateCoach": "تقييم المدرب",
+    "@rateCoach": {"description": ""},
+    
+    "later": "لاحقا",
+    "@later": {"description": ""},
+    
+    "addWeightAndPhoto": "أضف صورة ووزن",
+    "@addWeightAndPhoto": {"description": ""},
+    
+    "addYourCurrentWeight": "ادخل وزنك الحالى",
+    "@addYourCurrentWeight": {"description": ""},
+    
+    "add": "إضافة",
+    "@add": {"description": ""},
+    
+    "uploadPhoto": "ارفع الصورة",
+    "@uploadPhoto": {"description": ""},
+    
+    "yourProgressBrifing": "موجز تقدمك",
+    "@yourProgressBrifing": {"description": ""},
+    
+    "quarterlyYear": "باقة ربع سنوية",
+    "@quarterlyYear": {"description": ""},
+    
+    "halflyYear": "باقة نصف سنوية",
+    "@halflyYear": {"description": ""},
+    
+    "yearly": "باقة سنوية",
+    "@yearly": {"description": ""},
+    
+    "yourExcercises": "التمارين",
+    "@yourExcercises": {"description": ""},
+    
+    "carb": "نشويات",
+    "@carb": {"description": ""},
+    
+    "fats": "دهون",
+    "@fats": {"description": ""},
+    
+    "protein": "بروتين",
+    "@protein": {"description": ""},
+    
+    "yourMeal": "الوجبة",
+    "@yourMeal": {"description": ""},
+    
+    "recipe": "طريقة التحضير",
+    "@recipe": {"description": ""},
+    
+    "finishMeal": "إنهاء الوجبة",
+    "@finishMeal": {"description": ""},
+    
+    "moreExcerciese": "المزيد من التمارين",
+    "@moreExcerciese": {"description": ""},
+    
+    "gram": "ج",
+    "@gram": {"description": ""},
+    
+    "minutes": "دقائق",
+    "@minutes": {"description": ""},
+
+    "darkMode": "نظام مظلم",
+    "@darkMode": {"description": ""},
+
+    "lightMode": "نظام مضئ",
+    "@lightMode": {"description": ""}
+}
