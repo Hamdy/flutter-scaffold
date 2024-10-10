@@ -1,0 +1,1032 @@
+{
+  "@@locale": "en",
+
+  "connectionErr": "Can not connect to Server",
+  "@connectionErr": {"description": ""},
+
+  "prepareForChallengeHeader": "Prepare for the Challenge",
+  "@prepareForChallengeHeader": {"description": ""},
+
+  "prepareForChallengeBody": "Discover a unique experience with our fitness app and collaborate with professional trainers to achieve your fitness goals.",
+  "@prepareForChallengeBody": {"description": ""},
+
+  "next": "Next",
+  "@next": {"description": ""},
+
+  "expertTrainersHeader": "Expert Trainers",
+  "@expertTrainersHeader": {"description": ""},
+
+  "expertTrainersBody": "Meet our professional trainers who will guide you to achieve your full athletic potential and help you overcome challenges.",
+  "@expertTrainersBody": {"description": ""},
+
+  "joinAndShineHeader": "Join and Shine",
+  "@joinAndShineHeader": {"description": ""},
+
+  "joinAndShineBody": "Join our app today and get the chance for personal training and motivation to build a successful fitness lifestyle.",
+  "@joinAndShineBody": {"description": ""},
+
+  "welcomeHeader": "Welcome to Fit Zone",
+  "@welcomeHeader": {"description": ""},
+
+  "welcomeBody": "Discover a new world of entertainment with an app that fundamentally combines challenges and fun.",
+  "@welcomeBody": {"description": ""},
+
+  "agreeTo": "I agree to",
+  "@agreeTo": {"description": ""},
+
+  "policy": "Privacy Policy",
+  "@policy": {"description": ""},
+
+  "ofTheApp": "of the app",
+  "@ofTheApp": {"description": ""},
+
+  "signUp": "Sign Up",
+  "@signUp": {"description": ""},
+
+  "createAccount": "Create Your Account",
+  "@createAccount": {"description": ""},
+
+  "login": "Login",
+  "@login": {"description": ""},
+
+  "continueNext": "Continue",
+  "@continueNext": {"description": ""},
+
+  "fillInSignupForm": "Please enter the following details to create your account",
+  "@fillInSignupForm": {"description": ""},
+
+  "enterYourName": "Enter Your Name",
+  "@enterYourName": {"description": ""},
+
+  "enterYourEmail": "Enter Your Email Address",
+  "@enterYourEmail": {"description": ""},
+
+  "enterYourPhoneNumber": "Enter Your Phone Number",
+  "@enterYourPhoneNumber": {"description": ""},
+
+  "alreadyHaveAccoount": "Already have an account?",
+  "@alreadyHaveAccoount": {"description": ""},
+
+  "verifyYourAccoount": "Verify Your Account",
+  "@verifyYourAccoount": {"description": ""},
+
+  "enterCode": "Please enter the code sent to your number",
+  "@enterCode": {"description": ""},
+
+  "emailAddressInvalid": "The email address is invalid",
+  "@emailAddressInvalid": {"description": ""},
+
+  "enterAtLeastThreeCharacters": "Enter at least three characters",
+  "@enterAtLeastThreeCharacters": {"description": ""},
+
+  "phoneNumberInvalid": "The phone number is invalid",
+  "@phoneNumberInvalid": {"description": ""},
+
+  "nameRequired": "Enter Your Name",
+  "@nameRequired": {"description": ""},
+
+  "emailRequired": "Enter Your Email Address",
+  "@emailRequired": {"description": ""},
+
+  "phoneRequired": "Enter Your Phone Number",
+  "@phoneRequired": {"description": ""},
+
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {"description": ""},
+
+  "resendCode": "Resend Code",
+  "@resendCode": {"description": ""},
+
+  "emailAlreadyRegistered": "Email address already registered",
+  "@emailAlreadyRegistered": {"description": ""},
+
+  "phoneAlreadyRegistered": "Phone already registered",
+  "@phoneAlreadyRegistered": {"description": ""},
+
+  "phoneNotRegistered": "Phone number is not registered",
+  "@phoneNotRegistered": {"description": ""},
+
+  "accountConfirmation": "Confirm Your Account",
+  "@accountConfirmation": {"description": ""},
+
+  "enterOTP": "Enter OTP number sent to phone ",
+  "@enterOTP": {"description": ""},
+
+  "unknownError": "Unknown Error",
+  "@unknownError": {"description": ""},
+
+  "tellUsMoreAboutYou": "Tell us more about you",
+  "@tellUsMoreAboutYou": {"description": ""},
+
+  "joinUs": "Join us",
+  "@joinUs": {"description": ""},
+
+  "recordYourData": "Record your data to measure weight and height, and improve your fitness progress",
+  "@recordYourData": {"description": ""},
+
+  "joinAsTrainee": "Join as a trainee",
+  "@joinAsTrainee": {"description": ""},
+
+  "searchForDieitian": "Search for a nutrition expert to help you develop a healthy diet",
+  "@searchForDieitian": {"description": ""},
+
+  "joinAsCoach": "Join as a coach",
+  "@joinAsCoach": {"description": ""},
+
+  "findAcoach": "Search for a nutrition expert to help you develop a healthy diet",
+  "@findAcoach": {"description": ""},
+
+  "chooseYourPlan": "Choose the plan that suits you",
+  "@chooseYourPlan": {"description": ""},
+
+  "chooseAPlanThatFitsYou": "Record your data to measure weight and height and improve your fitness progress",
+  "@chooseAPlanThatFitsYou": {"description": ""},
+
+  "dietPlan": "Diet Plan",
+  "@dietPlan": {"description": ""},
+
+  "findAdietitian": "Find a dietitian to help you develop a healthy nutrition plan",
+  "@findAdietitian": {"description": ""},
+
+  "fitnessPlan": "Fitness Plan",
+  "@fitnessPlan": {"description": ""},
+
+  "findAfitnessTrainer": "Find a fitness trainer to help you develop a healthy fitness plan",
+  "@findAfitnessTrainer": {"description": ""},
+
+  "comprehensivePlan": "Comprehensive Plan",
+  "@comprehensivePlan": {"description": ""},
+
+  "findAComprehensivePlanTrainer": "Find a trainer to help you with a comprehensive plan",
+  "@findAComprehensivePlanTrainer": {"description": ""},
+
+  "chooseCoachGender": "Choose the coach''s gender?",
+  "@chooseCoachGender": {"description": ""},
+
+  "enterYourCoachGenderPreferences": "Enter your preferences to improve your fitness progress",
+  "@enterYourCoachGenderPreferences": {"description": ""},
+
+  "female": "Female",
+  "@female": {"description": ""},
+
+  "male": "Male",
+  "@male": {"description": ""},
+
+  "bothGenders": "Either",
+  "@bothGenders": {"description": ""},
+
+  "yourPersonalInfo": "Your personal info",
+  "@yourPersonalInfo": {"description": ""},
+
+  "enterYourPersonalInfo": "Please Enter your personal info to help us track your progress",
+  "@enterYourPersonalInfo": {"description": ""},
+
+  "height": "Height (cm)",
+  "@height": {"description": ""},
+
+  "weight": "Weight (kg)",
+  "@weight": {"description": ""},
+
+  "idealWeight": "Ideal Weight (kg)",
+  "@idealWeight": {"description": ""},
+
+  "gender": "Gender",
+  "@gender": {"description": ""},
+
+  "birthDate": "Birth Date",
+  "@birthDate": {"description": ""},
+
+  "cm": "cm",
+  "@cm": {"description": ""},
+
+  "kg": "kg",
+  "@kg": {"description": ""},
+
+  "enterBirthDate": "Enter birth date",
+  "@enterBirthDate": {"description": ""},
+
+  "enterHeight": "Enter height",
+  "@enterHeight": {"description": ""},
+
+  "enterweight": "Enter weight",
+  "@enterweight": {"description": ""},
+
+  "enterIdealWeight": "Enter ideal weight",
+  "@enterIdealWeight": {"description": ""},
+
+  "yourExperienceAndBio": "Your experience and bio",
+  "@yourExperienceAndBio": {"description": ""},
+
+  "enterYourExperience": "Enter your experience",
+  "@enterYourExperience": {"description": ""},
+
+  "pleaseProvideUsWithABrief": "Please provide us with a brief about your weight and height for improvement",
+  "@pleaseProvideUsWithABrief": {"description": ""},
+
+  "bio": "Bio",
+  "@bio": {"description": ""},
+
+  "briefBioAboutYou": "Enter a brief bio about yourself",
+  "@briefBioAboutYou": {"description": ""},
+
+  "fields": "Fields of specialization",
+  "@fields": {"description": ""},
+
+  "dietitianPlan": "diet plan",
+  "@dietitianPlan": {"description": ""},
+
+  "bothOptions": "Both options",
+  "@bothOptions": {"description": ""},
+
+  "certificates": "Certificates",
+  "@certificates": {"description": ""},
+
+  "languagesSpoken": "Languages spoken",
+  "@languagesSpoken": {"description": ""},
+
+  "spanishLanguage": "Spanish",
+  "@spanishLanguage": {"description": ""},
+
+  "arabicLanguage": "Arabic",
+  "@arabicLanguage": {"description": ""},
+
+  "englishLanguage": "English",
+  "@englishLanguage": {"description": ""},
+
+  "numberOfYearsOfExperience": "Number of years of experience",
+  "@numberOfYearsOfExperience": {"description": ""},
+
+  "enterNumberOfYearsOfExperience": "Enter Number of years of experience",
+  "@enterNumberOfYearsOfExperience": {"description": ""},
+
+  "yourPersonalInformation": "Your personal information",
+  "@yourPersonalInformation": {"description": ""},
+
+  "enterYourPersonalInformation": "Enter your personal information to measure weight and height for improvement",
+  "@enterYourPersonalInformation": {"description": ""},
+
+  "uploadID": "Upload ID",
+  "@uploadID": {"description": ""},
+
+  "limit10Mbs": "File size should not exceed 10 MB (JPG or PNG)",
+  "@limit10Mbs": {"description": ""},
+
+  "uploadPersonalImage": "Upload personal image",
+  "@uploadPersonalImage": {"description": ""},
+
+  "uploadCoverImage": "Upload cover photo",
+  "@uploadCoverImage": {"description": ""},
+
+  "bankingInfo": "Banking information",
+  "@bankingInfo": {"description": ""},
+
+  "enterBankingInfoBody": "Enter your banking details for improvement",
+  "@enterBankingInfoBody": {"description": ""},
+
+  "iban": "IBAN number",
+  "@iban": {"description": ""},
+
+  "bankRegisteredName": "Personal name",
+  "@bankRegisteredName": {"description": ""},
+
+  "name": "Name",
+  "@name": {"description": ""},
+
+  "bankName": "Bank name",
+  "@bankName": {"description": ""},
+
+  "bankCountry": "Bank country",
+  "@bankCountry": {"description": ""},
+
+  "bankCity": "Bank city",
+  "@bankCity": {"description": ""},
+
+  "schedule": "Work schedule",
+  "@schedule": {"description": ""},
+
+  "enterYourHolidays": "Enter your holidays",
+  "@enterYourHolidays": {"description": ""},
+
+  "matchedTrainees": "Matched trainees",
+  "@matchedTrainees": {"description": ""},
+
+  "fullProgram": "Full program",
+  "@fullProgram": {"description": ""},
+
+  "months": "Months",
+  "@months": {"description": ""},
+
+  "year": "Year",
+  "@year": {"description": ""},
+
+  "dailyActivities": "Daily activities",
+  "@dailyActivities": {"description": ""},
+
+  "program": "Program",
+  "@program": {"description": ""},
+
+  "theDiet": "The diet",
+  "@theDiet": {"description": ""},
+
+  "achievementsBrief": "Achievements brief",
+  "@achievementsBrief": {"description": ""},
+
+  "all": "All",
+  "@all": {"description": ""},
+
+  "completed": "Completed",
+  "@completed": {"description": ""},
+
+  "nonCompleted": "Non-completed",
+  "@nonCompleted": {"description": ""},
+
+  "trainees": "Trainees",
+  "@trainees": {"description": ""},
+
+  "newRequests": "New requests",
+  "@newRequests": {"description": ""},
+
+  "month": "Month",
+  "@month": {"description": ""},
+
+  "addNewCertificate": "Add new certificate",
+  "@addNewCertificate": {"description": ""},
+
+  "enterCertificateName": "Enter certificate name",
+  "@enterCertificateName": {"description": ""},
+
+  "uploadCertificate": "Upload certificate",
+  "@uploadCertificate": {"description": ""},
+
+  "traineeDetails": "Trainee details",
+  "@traineeDetails": {"description": ""},
+
+  "accept": "Accept",
+  "@accept": {"description": ""},
+
+  "reject": "Reject",
+  "@reject": {"description": ""},
+
+  "chatWithTrainee": "Chat with trainee",
+  "@chatWithTrainee": {"description": ""},
+
+  "traineeSubscriptionStartDate": "Trainee subscription start date",
+  "@traineeSubscriptionStartDate": {"description": ""},
+
+  "traineeSubscriptionEndDate": "Trainee subscription end date",
+  "@traineeSubscriptionEndDate": {"description": ""},
+
+  "personalProfile": "Personal profile",
+  "@personalProfile": {"description": ""},
+
+  "personalInformation": "Personal information",
+  "@personalInformation": {"description": ""},
+
+  "personalExperiences": "Personal experiences",
+  "@personalExperiences": {"description": ""},
+
+  "wallet": "Wallet",
+  "@wallet": {"description": ""},
+
+  "latestTransactions": "Latest transactions",
+  "@latestTransactions": {"description": ""},
+
+  "sessionManagement": "Session management",
+  "@sessionManagement": {"description": ""},
+
+
+  "yourGoals": "Your Goals",
+  "@yourGoals": {"description": ""},
+
+  "tellUsAboutYourFitnessGoals": "Enter your fitness Goals",
+  "@tellUsAboutYourFitnessGoals": {"description": ""},
+
+  "weAreExcitedToSeeYou": "We are excited to see you",
+  "@weAreExcitedToSeeYou": {"description": ""},
+
+  "welcome": "Welcome",
+  "@welcome": {"description": ""},
+
+  "inviteYourFriend": "Invite your friends",
+  "@inviteYourFriend": {"description": ""},
+
+  "getAdiscountOnReferreingFriends": "Get a 20 AED voucher when they subscribe",
+  "@getAdiscountOnReferreingFriends": {"description": ""},
+
+  "participateAndWin": "Participate and win",
+  "@participateAndWin": {"description": ""},
+
+  "sponsoredCoaches": "Featured Coaches",
+  "@sponsoredCoaches": {"description": ""},
+
+  "displayMore": "Show more",
+  "@displayMore": {"description": ""},
+
+  "coaches": "Coaches",
+  "@coaches": {"description": ""},
+
+  "fitnessAndNutrion": "fitness and nutrition",
+  "@fitnessAndNutrion": {"description": ""},
+
+  "yourSubscription": "Your subscription",
+  "@yourSubscription": {"description": ""},
+
+  "shareWithFriends": "Share with your friends",
+  "@shareWithFriends": {"description": ""},
+
+  "profile": "Personal profile",
+  "@profile": {"description": ""},
+
+  "logout": "Logout",
+  "@logout": {"description": ""},
+
+  "settings": "Settings",
+  "@settings": {"description": ""},
+
+  "achievedGoals": "Achieved Goals",
+  "@achievedGoals": {"description": ""},
+
+  "paymentMethods": "Payment method",
+  "@paymentMethods": {"description": ""},
+
+  "changePaymentMethod": "Change payment method",
+  "@changePaymentMethod": {"description": ""},
+
+  "addNew": "Add new",
+  "@addNew": {"description": ""},
+
+  "back": "Go back",
+  "@back": {"description": ""},
+
+  "backHome": "Back Home",
+  "@backHome": {"description": ""},
+
+  "totalTime": "Total Time (s)",
+  "@totalTime": {"description": ""},
+
+  "notifications": "Notifications",
+  "@notifications": {"description": ""},
+
+  "fitnessStatus": "Your Fitness Status",
+  "@fitnessStatus": {"description": ""},
+
+  "language": "Language",
+  "@language": {"description": ""},
+
+  "support": "Support",
+  "@support": {"description": ""},
+
+  "chooseLanguage": "Choose Language",
+  "@chooseLanguage": {"description": ""},
+
+  "arabicLanguageSaudi": "(السعودية) العربية",
+  "@arabicLanguageSaudi": {"description": ""},
+
+  "englishLanguageUK": "English (UK)",
+  "@englishLanguageUK": {"description": ""},
+
+  "changeprofilepicture": "Change Picture",
+  "@changeprofilepicture": {"description": ""},
+
+  "fullName": "Full name",
+  "@fullName": {"description": ""},
+
+  "emailAddress": "Email Address",
+  "@emailAddress": {"description": ""},
+
+  "phoneNumber": "Phone number",
+  "@phoneNumber": {"description": ""},
+
+  "confirmChanges": "Confirm changes",
+  "@confirmChanges": {"description": ""},
+
+  "delete": "delete",
+  "@delete": {"description": ""},
+
+  "noCardsAvailable": "No registered credit cards",
+  "@noCardsAvailable": {"description": ""},
+
+  "findACoach": "Find a coach ...",
+  "@findACoach": {"description": ""},
+
+  "filterCoaches": "Filter coaches",
+  "@filterCoaches": {"description": ""},
+
+  "reset": "Reset",
+  "@reset": {"description": ""},
+
+  "mainCategorization": "Main Filters",
+  "@mainCategorization": {"description": ""},
+
+  "ratingCategorization": "Rating filters",
+  "@ratingCategorization": {"description": ""},
+
+  "filter": "Filter",
+  "@filter": {"description": ""},
+
+  "loseWeight": "Lose Weight",
+  "@loseWeight": {"description": ""},
+
+  "muscleBuilding": "Muscle Building",
+  "@muscleBuilding": {"description": ""},
+
+  "increaseElasticity": "Increase Elasticity",
+  "@increaseElasticity": {"description": ""},
+
+  "learnBasics": "Learn Basics",
+  "@learnBasics": {"description": ""},
+
+  "maintainFitness": "Maintain Fitness",
+  "@maintainFitness": {"description": ""},
+
+  "beginner": "Beginner",
+  "@beginner": {"description": ""},
+
+  "intermediate": "Intermediate",
+  "@intermediate": {"description": ""},
+
+  "advanced": "Advanced",
+  "@advanced": {"description": ""},
+
+  "improveGeneralDiet": "Improve General Diet",
+  "@improveGeneralDiet": {"description": ""},
+
+  "limitWeight": "Set Target Weight",
+  "@limitWeight": {"description": ""},
+
+  "balanceCarbProteinFats": "Balance Protein, Carbs, and Fats",
+  "@balanceCarbProteinFats": {"description": ""},
+
+  "tellUsAboutYourFavoriteFoods": "Your Favorite Foods",
+  "@tellUsAboutYourFavoriteFoods": {"description": ""},
+
+  "enterYourFavoriteFoods": "Enter the following details to create your account!",
+  "@enterYourFavoriteFoods": {"description": ""},
+
+  "doYouHaveAlergies": "Do You Have Any Allergies",
+  "@doYouHaveAlergies": {"description": ""},
+
+  "enterYouAllergies": "Enter the following details to create your account!",
+  "@enterYouAllergies": {"description": ""},
+
+  "numberOfyourMeals": "Number of Your Meals",
+  "@numberOfyourMeals": {"description": ""},
+
+  "enterNumberOfyourMeals": "Enter the following details to create your account!",
+  "@enterNumberOfyourMeals": {"description": ""},
+
+  "tellUsAboutYourLevel": "Tell us about your level",
+  "@tellUsAboutYourLevel": {"description": ""},
+
+  "enterYourLevel": "Enter the following details to create your account",
+  "@enterYourLevel": {"description": ""},
+
+  "tellUsAboutYourTools": "Tools that assist you",
+  "@tellUsAboutYourTools": {"description": ""},
+
+  "enterYourTools": "Enter the following details to create your account",
+  "@enterYourTools": {"description": ""},
+
+  "tellUsAboutTrainingPlace": "Your training place",
+  "@tellUsAboutTrainingPlace": {"description": ""},
+
+  "enterYourTrainingPlace": "Enter the following details to create your account",
+  "@enterYourTrainingPlace": {"description": ""},
+  
+  "gym": "Gym",
+  "@gym": {"description": ""},
+
+  "gymDescription": "For muscle strengthening and power development exercises.",
+  "@gymDescription": {"description": ""},
+
+  "home": "Home",
+  "@home": {"description": ""},
+
+  "homeDescription": "For muscle strengthening and power development exercises.",
+  "@homeDescription": {"description": ""},
+
+  "backyard": "Backyard or playground",
+  "@backyard": {"description": ""},
+
+  "backyardDescription": "For muscle strengthening and power development exercises.",
+  "@backyardDescription": {"description": ""},
+
+  "rob": "Jump rope",
+  "@rob": {"description": ""},
+
+  "robDescription": "For muscle strengthening and power development exercises.",
+  "@robDescription": {"description": ""},
+
+  "ball": "Fitness ball",
+  "@ball": {"description": ""},
+
+  "ballDescription": "For muscle strengthening and power development exercises.",
+  "@ballDescription": {"description": ""},
+
+  "traininePlace": "Your training place",
+  "@traininePlace": {"description": ""},
+
+  "traininePlaceDescription": "Enter the following details to create your account!",
+  "@traininePlaceDescription": {"description": ""},
+
+  "dumbels": "Dumbbells",
+  "@dumbels": {"description": ""},
+
+  "dumbelsDescription": "For muscle strengthening and power development exercises.",
+  "@dumbelsDescription": {"description": ""},
+
+  "professional": "professional",
+  "@professional": {"description": ""},
+
+  "fish": "Fish",
+  "@fish": {"description": ""},
+
+  "eggs": "Eggs",
+  "@eggs": {"description": ""},
+
+  "beans": "Beans",
+  "@beans": {"description": ""},
+
+  "oats": "Oats",
+  "@oats": {"description": ""},
+
+  "potatoes": "Potatoes",
+  "@potatoes": {"description": ""},
+
+  "rice": "Rice",
+  "@rice": {"description": ""},
+
+  "meat": "Meat",
+  "@meat": {"description": ""},
+
+  "milk": "Milk",
+  "@milk": {"description": ""},
+
+  "juice": "Juice",
+  "@juice": {"description": ""},
+
+  "fruits": "Fruits",
+  "@fruits": {"description": ""},
+
+  "salad": "Salad",
+  "@salad": {"description": ""},
+
+  "chicken": "Chicken",
+  "@chicken": {"description": ""},
+
+  "meal": "Meal",
+  "@meal": {"description": ""},
+
+  "startDate": "Start Date",
+  "@startDate": {"description": ""},
+
+  "totalCost": "Total Cost",
+  "@totalCost": {"description": ""},
+
+  "addNewCard": "Add New Card",
+  "@addNewCard": {"description": ""},
+
+  "cardDetails": "Card Details",
+  "@cardDetails": {"description": ""},
+
+  "cardHolderName": "Card Holder Name",
+  "@cardHolderName": {"description": ""},
+
+  "cardNumber": "Card Number",
+  "@cardNumber": {"description": ""},
+
+  "cardExpiryDate": "Expiry Date",
+  "@cardExpiryDate": {"description": ""},
+
+  "cardCCV": "CVV",
+  "@cardCCV": {"description": ""},
+
+  "agreeToSaveCardDetailsForFutureUse": "I agree to save card details for future use",
+  "@agreeToSaveCardDetailsForFutureUse": {"description": ""},
+
+  "tryAgain": "Try again",
+  "@tryAgain": {"description": ""},
+
+  "subscriptionFailed": "Subscription failed!",
+  "@subscriptionFailed": {"description": ""},
+
+  "retryToSubscribe": "Sorry, the subscription process could not be completed. Please try again.",
+  "@retryToSubscribe": {"description": ""},
+
+  "cardAddFailed": "Card addition failed",
+  "@cardAddFailed": {"description": ""},
+
+  "retryToAddCard": "Sorry, the card could not be added. Please try again.",
+  "@retryToAddCard": {"description": ""},
+
+  "coachProvidesThesePlans": "The coach offers the following services",
+  "@coachProvidesThesePlans": {"description": ""},
+
+  "chooseCoachServie": "Choose from the coach''s services for your needs",
+  "@chooseCoachServie": {"description": ""},
+
+  "subscriptionStartDate": "Start date",
+  "@subscriptionStartDate": {"description": ""},
+
+  "subscribeWithCoachHeader": "Subscribe with the Coach",
+  "@subscribeWithCoachHeader": {"description": ""},
+
+  "subscribeWithCoachBody": "Benefit from a unique experience with your monthly subscription, where you will receive a monthly one-on-one session to adjust your goals.",
+  "@subscribeWithCoachBody": {"description": ""},
+
+  "three_months": "3 months",
+  "@three_months": {"description": ""},
+
+  "six_months": "6 months",
+  "@six_months": {"description": ""},
+
+  "one_year": "yearly",
+  "@one_year": {"description": ""},
+
+  "threeMonthsPlanDescription": "Provides you with a monthly one-on-one session, personal workout plan, and email support",
+  "@threeMonthsPlanDescription": {"description": ""},
+
+  "sixMonthsPlanDescription": "Provides you with a monthly one-on-one session, personal workout plan, and email support",
+  "@sixMonthsPlanDescription": {"description": ""},
+
+  "oneYearPlanDescription": "Provides you with a monthly one-on-one session, personal workout plan, and email support",
+  "@oneYearPlanDescription": {"description": ""},
+
+  "sar": "SAR",
+  "@sar": {"description": ""},
+
+  "usd": "USD",
+  "@usd": {"description": ""},
+
+  "eur": "EUR",
+  "@eur": {"description": ""},
+
+  "egp": "EGP",
+  "@egp": {"description": ""},
+
+  "paymentDetails": "Payment details",
+  "@paymentDetails": {"description": ""},
+
+  "requestDetails": "Request details",
+  "@requestDetails": {"description": ""},
+
+  "change": "change",
+  "@change": {"description": ""},
+
+  "rating": "Rating",
+  "@rating": {"description": ""},
+
+  "theRatings": "The Ratings",
+  "@theRatings": {"description": ""},
+
+  "ratings": "Ratings",
+  "@ratings": {"description": ""},
+
+  "fitness": "Fitness",
+  "@fitness": {"description": ""},
+
+  "nutrionist": "Nutritionist",
+  "@nutrionist": {"description": ""},
+
+  "readMore": "Read More",
+  "@readMore": {"description": ""},
+
+  "readLess": "Read Less",
+  "@readLess": {"description": ""},
+
+  "beOneOfTheFamily": "Be One of the Family",
+  "@beOneOfTheFamily": {"description": ""},
+
+  "otherAchievements": "Other Achievements",
+  "@otherAchievements": {"description": ""},
+
+  "yearsOfExperience": "Years of Experience",
+  "@yearsOfExperience": {"description": ""},
+
+  "comments": "Comments",
+  "@comments": {"description": ""},
+
+  "comment": "Comment",
+  "@comment": {"description": ""},
+
+  "star": "Star",
+  "@star": {"description": ""},
+
+  "stars": "Stars",
+  "@stars": {"description": ""},
+
+  "subscribeNow": "Subscribe now",
+  "@subscribeNow": {"description": ""},
+
+  "trainingPeriod": "Training period",
+  "@trainingPeriod": {"description": ""},
+
+  "fiveStars": "5 stars",
+  "@fiveStars": {"description": ""},
+
+  "fourStars": "4 stars",
+  "@fourStars": {"description": ""},
+
+  "threeStars": "3 stars",
+  "@threeStars": {"description": ""},
+
+  "twoStars": "2 stars",
+  "@twoStars": {"description": ""},
+
+  "oneStars": "1 star",
+  "@oneStars": {"description": ""},
+
+  "addCertificate": "إضافة شهادة",
+  "@addCertificate": {"description": ""},
+
+  "years": "سنة",
+  "@years": {"description": ""},
+
+  "noCoachesAvailabileCurrently": "No active coaches currently",
+  "@noCoachesAvailabileCurrently": {"description": ""},
+
+  "fitnessCoach": "Fitness",
+  "@fitnessCoach": {"description": ""},
+
+  "nutritionist": "Nutritionist",
+  "@nutritionist": {"description": ""},
+
+  "fitnessAndNutritionistCoach": "Fitness & Nutritionist",
+  "@fitnessAndNutritionistCoach": {"description": ""},
+
+  "yourProgram": "Your program",
+  "@yourProgram": {"description": ""},
+
+  "yourProgramIsYourCompanion": "Your daily companion for health and activity",
+  "@yourProgramIsYourCompanion": {"description": ""},
+
+  "exercises": "Exercises",
+  "@exercises": {"description": ""},
+
+  "exercise": "Exercise",
+  "@exercise": {"description": ""},
+
+  "complete": "Complete",
+  "@complete": {"description": ""},
+
+  "yourDiet": "Your diet",
+  "@yourDiet": {"description": ""},
+
+  "mealsDuringTheDay": "Meals throughout the day",
+  "@mealsDuringTheDay": {"description": ""},
+
+  "chatWithCoachAndStatyUptodate": "Chat with your coach and stay updated",
+  "@chatWithCoachAndStatyUptodate": {"description": ""},
+
+  "yourPlanManagement": "Your plan management",
+  "@yourPlanManagement": {"description": ""},
+
+  "trainingPlan": "Training package",
+  "@trainingPlan": {"description": ""},
+
+  "endsAtJanuary": "Ends in January",
+  "@endsAtJanuary": {"description": ""},
+
+  "startsAtFebruary": "Starts in February",
+  "@startsAtFebruary": {"description": ""},
+
+  "endsAtFebruary": "Ends in February",
+  "@endsAtFebruary": {"description": ""},
+
+  "startsAtMarch": "Starts in March",
+  "@startsAtMarch": {"description": ""},
+
+  "endsAtMarch": "Ends in March",
+  "@endsAtMarch": {"description": ""},
+
+  "startsAtApril": "Starts in April",
+  "@startsAtApril": {"description": ""},
+
+  "endsAtApril": "Ends in April",
+  "@endsAtApril": {"description": ""},
+
+  "startsAtMay": "Starts in May",
+  "@startsAtMay": {"description": ""},
+
+  "endsAtMay": "Ends in May",
+  "@endsAtMay": {"description": ""},
+
+  "startsAtJune": "Starts in June",
+  "@startsAtJune": {"description": ""},
+
+  "endsAtJune": "Ends in June",
+  "@endsAtJune": {"description": ""},
+
+  "startsAtJuly": "Starts in July",
+  "@startsAtJuly": {"description": ""},
+
+  "endsAtJuly": "Ends in July",
+  "@endsAtJuly": {"description": ""},
+
+  "startsAtAugust": "Starts in August",
+  "@startsAtAugust": {"description": ""},
+
+  "endsAtAugust": "Ends in August",
+  "@endsAtAugust": {"description": ""},
+
+  "startsAtSeptember": "Starts in September",
+  "@startsAtSeptember": {"description": ""},
+
+  "endsAtSeptember": "Ends in September",
+  "@endsAtSeptember": {"description": ""},
+
+  "startsAtOctober": "Starts in October",
+  "@startsAtOctober": {"description": ""},
+
+  "endsAtOctober": "Ends in October",
+  "@endsAtOctober": {"description": ""},
+
+  "startsAtNovember": "Starts in November",
+  "@startsAtNovember": {"description": ""},
+
+  "endsAtNovember": "Ends in November",
+  "@endsAtNovember": {"description": ""},
+
+  "startsAtDecember": "Starts in December",
+  "@startsAtDecember": {"description": ""},
+
+  "endsAtDecember": "Ends in December",
+  "@endsAtDecember": {"description": ""},
+
+  "moveToYearlyPlan": "Move to yearly plan",
+  "@moveToYearlyPlan": {"description": ""},
+
+  "renewSubscription": "Renew subscription",
+  "@renewSubscription": {"description": ""},
+
+  "cancelSubscription": "Cancel subscription",
+  "@cancelSubscription": {"description": ""},
+
+  "rateCoach": "Rate the coach",
+  "@rateCoach": {"description": ""},
+
+  "later": "Later",
+  "@later": {"description": ""},
+
+  "addWeightAndPhoto": "Add weight and photo",
+  "@addWeightAndPhoto": {"description": ""},
+
+  "addYourCurrentWeight": "Enter your current weight",
+  "@addYourCurrentWeight": {"description": ""},
+
+  "add": "Add",
+  "@add": {"description": ""},
+
+  "uploadPhoto": "Upload photo",
+  "@uploadPhoto": {"description": ""},
+
+  "yourProgressBrifing": "Your progress briefing",
+  "@yourProgressBrifing": {"description": ""},
+
+  "quarterlyYear": "Quarter yearly package",
+  "@quarterlyYear": {"description": ""},
+
+  "halflyYear": "Half yearly package",
+  "@halflyYear": {"description": ""},
+
+  "yearly": "Yearly package",
+  "@yearly": {"description": ""},
+
+  "yourExcercises": "Exercises",
+  "@yourExcercises": {"description": ""},
+
+  "carb": "Carbs",
+  "@carb": {"description": ""},
+
+  "fats": "Fats",
+  "@fats": {"description": ""},
+
+  "protein": "Protein",
+  "@protein": {"description": ""},
+
+  "yourMeal": "Meal",
+  "@yourMeal": {"description": ""},
+
+  "recipe": "Recipe",
+  "@recipe": {"description": ""},
+
+  "finishMeal": "End meal",
+  "@finishMeal": {"description": ""},
+
+  "moreExcerciese": "More exercises",
+  "@moreExcerciese": {"description": ""},
+
+  "gram": "gm",
+  "@gram": {"description": ""},
+
+  "minutes": "minutes",
+  "@minutes": {"description": ""},
+
+  "darkMode": "Dark mode",
+  "@darkMode": {"description": ""},
+
+  "lightMode": "LightMode",
+  "@lightMode": {"description": ""}
+
+}
+
